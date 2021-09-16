@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Roy - Who am I?
 description: Feel free to catch up with me!
-show_downloads: true
+logo: https://github.com/roychanmeliaz/roychanmeliaz.github.io/blob/main/sempro_filtered.jpg?raw=true
+show_downloads: false
