@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Who am I?
+**Roy**, a freshly baked computer engineer with a passion for technology, especially Robotics & AI. Done many projects related to Robotics, AI, Web and App Development, as well as won various awards in robot and app competitions. Trying to share my knowledge to everyone I could.
 
-You can use the [editor on GitHub](https://github.com/roychanmeliaz/roychanmeliaz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Education
+**Computer Engineer** Major (B.Eng. / S.T.)
+**Institut Teknologi Sepuluh Nopember**
+**Thesis:** ITS Autonomous Car (iCar) Maneuver at Roundabouts or U-Turns Using Deep Reinforcement Learning
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Links
+- [LinkedIn](https://www.linkedin.com/in/roychanmeliaz/)
+- [HackerRank](https://www.hackerrank.com/roychanmeliaz)
+- [GitHub](https://github.com/roychanmeliaz/)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/roychanmeliaz/roychanmeliaz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+Feel free to hit me up at [roychan.meliaz@gmail.com](mailto://roychan.meliaz@gmail.com).
