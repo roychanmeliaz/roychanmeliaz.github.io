@@ -4,7 +4,8 @@
 ### Education
 **Computer Engineer** Major (B.Eng. / S.T.)\
 **Institut Teknologi Sepuluh Nopember** (ITS) Surabaya, Indonesia\
-**Thesis:** ITS Autonomous Car (iCar) Maneuver at Roundabouts or U-Turns Using Deep Reinforcement Learning
+**Thesis:** ITS Autonomous Car (iCar) Maneuver at Roundabouts or U-Turns Using Deep Reinforcement Learning\
+*Conference paper published at: https://ieeexplore.ieee.org/document/10221077*
 
 ### Meet me on:
 - **[LinkedIn](https://www.linkedin.com/in/roychanmeliaz/)**
